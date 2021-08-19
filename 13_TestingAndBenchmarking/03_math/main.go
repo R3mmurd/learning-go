@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/learning-go/13_TestingAndBenchmarking/03_math/mymath"
+	"github.com/R3mmurd/learning-go/13_TestingAndBenchmarking/03_math/mymath"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/learning-go/12_WritingDocumentation/dog"
+	"github.com/R3mmurd/learning-go/12_WritingDocumentation/dog"
 )
 
 // Canine defines a data type to represent dogs.

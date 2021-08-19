@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/learning-go/13_TestingAndBenchmarking/02_text/quote"
+	"github.com/R3mmurd/learning-go/13_TestingAndBenchmarking/02_text/quote"
 )
 
 func TestUseCount(t *testing.T) {

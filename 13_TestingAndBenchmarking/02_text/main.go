@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/learning-go/13_TestingAndBenchmarking/02_text/quote"
-	"github.com/learning-go/13_TestingAndBenchmarking/02_text/word"
+	"github.com/R3mmurd/learning-go/13_TestingAndBenchmarking/02_text/quote"
+	"github.com/R3mmurd/learning-go/13_TestingAndBenchmarking/02_text/word"
 )
 
 func main() {
