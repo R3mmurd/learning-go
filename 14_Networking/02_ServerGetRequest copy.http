@@ -1,0 +1,7 @@
+POST http://localhost:8080/db
+Content-Type: application/json
+
+{
+    "key": "1",
+    "value": "Test data for key = 1"
+}
